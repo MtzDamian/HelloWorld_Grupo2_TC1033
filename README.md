@@ -1,5 +1,6 @@
 ## HelloWorld_Grupo2_TC1033
-# Omar Damián Martínez Cordero
+#Emilio De Gyves García
+#Omar Damián Martínez Cordero
 Laboratorio - branch - commits - pull-request - merge - markdown
 
 **bold text**
