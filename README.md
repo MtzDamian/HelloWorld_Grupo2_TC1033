@@ -42,15 +42,19 @@ cin>> _cantEpisodios;
 
 ````
 
----
+------
 
-	[title](https://www.markdownguide.org/cheat-sheet/)
+[Markdownguide.orgl](https://www.markdownguide.org/cheat-sheet/)
   
   ![Tepic,Nayarit](tepic.jpg)
   
-  	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+- [x] Aguachile
+- [ ] Mole
+- [ ] Salsa
   
   
